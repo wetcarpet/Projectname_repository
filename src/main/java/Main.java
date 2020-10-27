@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Класс мэйн - первая строка кода");
         System.out.println("Класс мэйн - первый комит");
         System.out.println("Класс мэйн - второй коммит, первый ещё не пушнут");
+        System.out.println("Новый нон-ьастер бранч1");
 
 
     }
